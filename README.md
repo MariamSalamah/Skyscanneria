@@ -8,13 +8,13 @@ This project is a flight &amp; hotel booking application inspired by Skyscanner 
  
 ## Flowchart 
 #### Search Flights by a Guest Flow
-<img src="https://github.com/MariamSalamah/Skyscanneria/blob/main/search%20flights.png" alt="Search Flights Flowchart" width="80%" />
+<img src="https://github.com/MariamSalamah/Skyscanneria/blob/main/search%20flights.png" alt="Search Flights Flowchart" width="50%" style="display: block; margin: 0 auto;" />
 <!-- #### Filter Flights (for a guest) Flow
 <img src="https://github.com/MariamSalamah/Vacation-Tracking-System/blob/main/Create%20Request%20flowchart.svg" alt="Creat Request Flowchart" width="80%" /> -->
 
 
 ## Sequence diagram
-![Search Flights As a Guest Sequance Diagram]()
+![Search Flights As a Guest Sequance Diagram](https://github.com/MariamSalamah/Skyscanneria/blob/main/searchflightsasguestseuancediagram.png)
 
 ## Pseudocode
 
