@@ -2,9 +2,9 @@
 This project is a flight &amp; hotel booking application inspired by Skyscanner website.
 
 ## Content
-    - [Flowchart](#flowchart)
-    - [Sequence Diagram](#sequence-diagram)
-    - [Pseudocode](#pseudocode)
+- [Flowchart](#flowchart-search-flights-by-a-guest-flow)
+- [Sequence Diagram](#sequence-diagram)
+- [Pseudocode](#pseudocode)
  
 ## Flowchart 
 #### Search Flights by a Guest Flow
